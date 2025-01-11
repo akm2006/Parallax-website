@@ -6,3 +6,5 @@ This is my first attempt at creating a parallax scrolling website using HTML and
 ## Features
 - **Parallax Scrolling**: The website includes a parallax effect where the background moves at a different speed than the content.
 - **Responsive Design**: The website is designed to be responsive on all screen sizes, adjusting the layout for mobile, tablet, and desktop views.
+## Link
+https://akm2006.github.io/Parallax-website/
